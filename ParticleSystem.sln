@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParticleSystem", "ParticleSystem\ParticleSystem.vcxproj", "{26AADD5F-A94B-4880-B6EE-EE5060B692C7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParticleSystemDemo", "ParticleSystemDemo\ParticleSystemDemo.vcxproj", "{9A2EFED9-9A10-4271-BFA4-3CE8D6F242D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26AADD5F-A94B-4880-B6EE-EE5060B692C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26AADD5F-A94B-4880-B6EE-EE5060B692C7}.Debug|Win32.Build.0 = Debug|Win32
+		{26AADD5F-A94B-4880-B6EE-EE5060B692C7}.Release|Win32.ActiveCfg = Release|Win32
+		{26AADD5F-A94B-4880-B6EE-EE5060B692C7}.Release|Win32.Build.0 = Release|Win32
+		{9A2EFED9-9A10-4271-BFA4-3CE8D6F242D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A2EFED9-9A10-4271-BFA4-3CE8D6F242D9}.Debug|Win32.Build.0 = Debug|Win32
+		{9A2EFED9-9A10-4271-BFA4-3CE8D6F242D9}.Release|Win32.ActiveCfg = Release|Win32
+		{9A2EFED9-9A10-4271-BFA4-3CE8D6F242D9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
